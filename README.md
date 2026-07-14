@@ -1,0 +1,2 @@
+# mapleimperialclub
+Static site: mapleimperialclub
